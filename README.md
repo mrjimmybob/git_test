@@ -1,2 +1,3 @@
 # git_test
-Test repo
+My first ODIN github test repo
+Howdy!
